@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gelato25
 - 👀 I’m interested in Learning Everything I find cool.
 - 🌱 I’m currently learning JavaScrpit.
-- 💞️ I’m looking to collaborate on C,C++,Java,JavaScript,Pyhton.
+- 💞️ I’m looking to collaborate on C,C++,Java,JavaScript,Python.
 - 📫 How to reach me (email:saimasoft2u@gmail.com)
 - ⚡ Fun fact: fluent in different lanaguage , still lacks on communication.
 
